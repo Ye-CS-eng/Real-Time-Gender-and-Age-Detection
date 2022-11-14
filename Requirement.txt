@@ -1,0 +1,8 @@
+1) Install opencv-python and other necessary libiraries
+2)Install and put the filles following:
+     age_deploy.prototxt
+     age_net.caffemodel
+     gender_deploy.prototxt
+     gender_net.caffemodel
+     opencv_face_detector_uint8.pb
+     opencv_face_detector.pbtxt
